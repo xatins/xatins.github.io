@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xatins.github.io/sitemap.html.gz
+Sitemap: https://xatins.github.io/app/sitemap.html.gz
+Sitemap: https://xatins.github.io/assets/sitemap.html.gz
+Sitemap: https://xatins.github.io/css/sitemap.html.gz
+Sitemap: https://xatins.github.io/data/sitemap.html.gz
+Sitemap: https://xatins.github.io/includes/sitemap.html.gz
+Sitemap: https://xatins.github.io/item/sitemap.html.gz
+Sitemap: https://xatins.github.io/src/sitemap.html.gz
